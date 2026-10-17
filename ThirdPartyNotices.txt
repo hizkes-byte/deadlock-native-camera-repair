@@ -1,0 +1,18 @@
+The distributed binaries are used for Source 2 resource parsing and serialization.
+Each component's license notice is provided in licenses/.
+
+ValveResourceFormat 20.1.7467 - MIT
+https://github.com/ValveResourceFormat/ValveResourceFormat
+ValveKeyValue 0.70.0.499 - MIT
+https://github.com/ValveResourceFormat/ValveKeyValue
+ValvePak 5.0.2.177 - MIT
+https://github.com/ValveResourceFormat/ValvePak
+K4os.Compression.LZ4 1.3.8 - MIT, includes LZ4 attribution
+https://github.com/MiloszKrajewski/K4os.Compression.LZ4
+ZstdSharp.Port 0.8.8 - MIT
+https://github.com/oleg-st/ZstdSharp
+System.IO.Hashing 10.0.10 - MIT
+https://github.com/dotnet/runtime
+
+The repair utility itself uses the installed game only as a local camera reference.
+No Valve game assets are bundled in the distribution archive.

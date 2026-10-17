@@ -1,0 +1,10 @@
+runs/
+__pycache__/
+*.py[cod]
+*.vpk
+*.vmdl_c
+*.bak
+*.tmp
+*.zip
+.DS_Store
+Thumbs.db
